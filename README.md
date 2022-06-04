@@ -7,6 +7,7 @@ https://github.com/MountLee/btl_mle_l_inf
 ## Dynamic Bradley-Terry Model
 Kernel smmothing method:
 https://github.com/shamindras/bttv-aistats2020
+
 Temporal regularization method:
 https://github.com/shamindras/bradley-terry-convexopt
 
